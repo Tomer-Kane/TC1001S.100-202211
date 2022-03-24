@@ -13,6 +13,7 @@ Semester: 2
 
 Cambios por tomer:
 Pacman: Cambié el punto de inicio de pacman
+Snake: Inverti los colores de la serpiente y la comida
 
 
 
