@@ -2,6 +2,7 @@
 Sample code for the Computer Tools course challenge
 
 Author: Gilberto Echeverria
+
 Name: Tomer Kane
 Career: Computer Science
 Semester: 2
