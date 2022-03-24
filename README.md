@@ -9,6 +9,11 @@ Name: Tomer Kane
 Career: Computer Science
 Semester: 2
 
+Cambios por tomer:
+Pacman: Cambié el punto de inicio de pacman
+
+
+
 Name: Ignacio
 Carrer: ITC
 Semester: 2nd
