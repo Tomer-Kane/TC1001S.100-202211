@@ -6,11 +6,14 @@ Carrer: ITD
 Semester: 2nd
 
 
-Author: Gilberto Echeverria
-
+Author: Gilberto 
 Name: Tomer Kane
 Career: Computer Science
 Semester: 2
+
+Name: Ignacio
+Carrer: ITC
+Semester: 2nd
 
 Original games code from: http://www.grantjenks.com/docs/freegames/index.html
 Games included:
