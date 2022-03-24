@@ -3,6 +3,11 @@ Sample code for the Computer Tools course challenge
 
 Author: Gilberto Echeverria
 
+Name: Ignacio
+Carrer: ITC
+Semester: 2nd
+
+
 Original games code from: http://www.grantjenks.com/docs/freegames/index.html
 Games included:
 - Paint
