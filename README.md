@@ -6,6 +6,8 @@ Carrer: ITD
 Semester: 2nd
 changes on game 1: I changed pacman size and color.
 snake: Cambie la velocidad de nuestra serpiente, ahora es un 200% más rapida.
+cannon: actualicé la velocidad de los objetivos, ya que al tener un tiro más rapido debería haber complejidad en los objetivos.
+
 
 Name: Tomer Kane
 Career: Computer Science
