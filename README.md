@@ -4,6 +4,8 @@ Sample code for the Computer Tools course challenge
 Name: Rafael Blanga
 Carrer: ITD
 Semester: 2nd
+changes on game 1: I changed pacman size and color.
+
 
 Name: Tomer Kane
 Career: Computer Science
