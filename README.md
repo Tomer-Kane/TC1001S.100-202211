@@ -1,4 +1,4 @@
-≈# TC1001S - Herramientas Computacionales
+i≈# TC1001S - Herramientas Computacionales
 Sample code for the Computer Tools course challenge
 
 name: Rafael Blanga
@@ -7,6 +7,7 @@ Semester: 2nd
 
 
 Author: Gilberto 
+
 Name: Tomer Kane
 Career: Computer Science
 Semester: 2
