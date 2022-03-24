@@ -4,14 +4,7 @@ Sample code for the Computer Tools course challenge
 Name: Rafael Blanga
 Carrer: ITD
 Semester: 2nd
-<<<<<<< HEAD
 
-
-Author: Gilberto 
-
-=======
- 
->>>>>>> eb1f243c52206bdf08ef3403e18b455a3c32fab0
 Name: Tomer Kane
 Career: Computer Science
 Semester: 2
