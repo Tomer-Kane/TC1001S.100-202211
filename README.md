@@ -5,7 +5,7 @@ Name: Rafael Blanga
 Carrer: ITD
 Semester: 2nd
 changes on game 1: I changed pacman size and color.
-
+snake: Cambie la velocidad de nuestra serpiente, ahora es un 200% más rapida.
 
 Name: Tomer Kane
 Career: Computer Science
