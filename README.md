@@ -1,6 +1,11 @@
 ≈# TC1001S - Herramientas Computacionales
 Sample code for the Computer Tools course challenge
 
+name: Rafael Blanga
+Carrer: ITD
+Semester: 2nd
+
+
 Author: Gilberto Echeverria
 
 Name: Tomer Kane
