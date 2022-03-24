@@ -48,11 +48,11 @@ def move():
     clear()
 
     for body in snake:
-        square(body.x, body.y, 9, 'green')
+        square(body.x, body.y, 9, 'pink')
 
     square(food.x, food.y, 9, 'blue')
     update()
-    ontimer(move,70)
+    ontimer(move,100)
 
 setup(420, 420, 370, 0)
 hideturtle()
