@@ -8,7 +8,7 @@ Exercises
 4. Make the ghosts faster/slower.
 5. Make the ghosts smarter.
 
-"""
+i"""
 
 from random import choice
 from turtle import *
@@ -139,7 +139,7 @@ def move():
 
         up()
         goto(point.x + 10, point.y + 10)
-        dot(20, 'red')
+        dot(20, 'green')
 
     update()
 
