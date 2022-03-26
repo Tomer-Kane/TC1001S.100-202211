@@ -23,6 +23,10 @@ Name: Ignacio
 Carrer: ITC
 Semester: 2nd
 
+Cambios Ignacio:
+pacman: Cambié el color de los fantasmas
+Cannon:Se modificó el color de las balas de cañon y de los objetivos.
+Snake: Se actualizó el vector dee la comida, haciendo que esta solo aparezca en el centro del tablero.
 
 
 Original games code from: http://www.grantjenks.com/docs/freegames/index.html
